@@ -24,6 +24,14 @@ Throughout the project, we employed various analysis methods to gain insights in
 3. Data Cleaning and Preprocessing: Handling missing values, removing duplicates, and ensuring the dataset is ready for analysis.
 4. Graphical Analysis and Visualization: Creating visual representations, such as scatter plots, bar charts, and histograms, to explore patterns and trends in the data. <br>
 
+Snapshots: 
+
+<img src="heatmap.png" alt="headmap"> <br>
+<img src="histogram.png" alt="histogram"> <br>
+<img src="scatterplot.png" alt="scatterplot"> <br>
+<img src="treemap.png" alt="treemap"> <br>
+<img src="barchart.png" alt="barchart"> <br>
+
 Findings: <br>
 Through the analysis of the Spotify dataset, we discovered several noteworthy findings regarding the factors that contribute to a song's popularity. Some of the key findings include:<br>
 
