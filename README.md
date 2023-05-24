@@ -1,4 +1,4 @@
-# Spotify Data Analysis
+# Exploratory Data Analysis for Spotify
 
 This project analyzes a dataset related to songs and playlists on Spotify to gain insights into factors that contribute to a song's popularity.
 
